@@ -3,6 +3,7 @@
   "description": "Calculate security hash for ACME clients based on their personal information.",
   "main": "Main.xaml",
   "dependencies": {
+    "AcmeLibrary": "[1.0.27]",
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.System.Activities": "[21.4.0]",
