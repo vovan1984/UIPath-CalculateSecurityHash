@@ -1,5 +1,4 @@
 1. How to retrieve next item.
 2. How to send email.
 3. How to use exceptions?
-4. What is GetAppCredentials.xaml? Review ReFramework video again.
-5. How to use DataScraping Wizard?
+4. How to use DataScraping Wizard?
