@@ -1,2 +1,0 @@
-1. How to retrieve next item.
-2. How to use DataScraping Wizard?
